@@ -6,4 +6,4 @@
 適宜ライセンス見て使ったり使わなかったりしてください．
 
 ## メンテナ情報
-- [@mizphses] (Fuminori Ogawa 全学メールa21.4btf)
+- [@mizphses](https://github.com/mizphses) (Fuminori Ogawa 全学メールa21.4btf)
